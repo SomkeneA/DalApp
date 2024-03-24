@@ -1,2 +1,2 @@
 # DalApp
-Web Application for Dalex Productions
+Web Application for Paint Productions
